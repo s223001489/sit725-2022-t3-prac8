@@ -1,0 +1,27 @@
+{
+  "name": "sit725-t3-prac2",
+  "version": "1.0.0",
+  "description": "SIT725 Practicals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s223001489/sit725-t3-prac2.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Varshini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s223001489/sit725-t3-prac2/issues"
+  },
+  "homepage": "https://github.com/s223001489/sit725-t3-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
