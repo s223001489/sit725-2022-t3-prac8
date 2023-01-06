@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/s223001489/sit725-t3-prac4#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
+    "mongodb": "^4.13.0",
     "save": "^2.9.0"
   }
 }
